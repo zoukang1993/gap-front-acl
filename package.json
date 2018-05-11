@@ -1,0 +1,22 @@
+{
+  "name": "gap-front-acl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wecfin/wec-front-acl.git"
+  },
+  "author": "zouk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wecfin/wec-front-acl/issues"
+  },
+  "homepage": "https://github.com/wecfin/wec-front-acl#readme"
+}
